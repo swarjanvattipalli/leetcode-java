@@ -11,6 +11,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
@@ -21,4 +22,12 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
