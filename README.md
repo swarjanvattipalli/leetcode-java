@@ -36,9 +36,11 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
