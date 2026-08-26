@@ -1,38 +1,24 @@
 class Solution {
     public int maxScore(int[] cardPoints, int k) {
+        int sum = 0;
 
-        int n = cardPoints.length;
-
-        // Total sum of all cards
-        int total = 0;
-        for (int card : cardPoints) {
-            total += card;
+        for(int i=0;i<k;i++){
+            sum += cardPoints[i];
         }
 
-        // Number of cards we leave behind
-        int windowSize = n - k;
-
-        // If we take all cards
-        if (windowSize == 0) {
-            return total;
+        if(cardPoints.length == k){
+            return sum;
         }
 
-        // Find minimum sum subarray of size n-k
-        int windowSum = 0;
+        int maxSum = sum;
 
-        for (int i = 0; i < windowSize; i++) {
-            windowSum += cardPoints[i];
+        for(int i=0;i<k;i++){
+            sum += cardPoints[cardPoints.length-1-i];
+            sum -= cardPoints[k-i-1];
+
+            maxSum = Math.max(maxSum, sum);
         }
 
-        int minWindowSum = windowSum;
-
-        for (int i = windowSize; i < n; i++) {
-            windowSum += cardPoints[i];
-            windowSum -= cardPoints[i - windowSize];
-
-            minWindowSum = Math.min(minWindowSum, windowSum);
-        }
-
-        return total - minWindowSum;
+        return maxSum;
     }
 }
