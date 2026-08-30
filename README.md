@@ -21,6 +21,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0904-fruit-into-baskets) |
@@ -40,6 +41,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -48,6 +50,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
