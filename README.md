@@ -14,6 +14,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0485-max-consecutive-ones](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/swarjanvattipalli/leetcode-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
@@ -25,6 +26,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0567-permutation-in-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/swarjanvattipalli/leetcode-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
@@ -36,6 +38,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/swarjanvattipalli/leetcode-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
@@ -44,6 +47,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0424-longest-repeating-character-replacement](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
