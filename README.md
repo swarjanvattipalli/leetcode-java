@@ -83,4 +83,16 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0992-subarrays-with-k-different-integers) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0062-unique-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
