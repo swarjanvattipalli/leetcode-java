@@ -9,6 +9,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0011-container-with-most-water](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0485-max-consecutive-ones) |
@@ -66,6 +67,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0011-container-with-most-water](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0567-permutation-in-string) |
@@ -74,6 +76,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0015-3sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
