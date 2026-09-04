@@ -61,6 +61,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0125-valid-palindrome](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0583-delete-operation-for-two-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
@@ -97,8 +98,13 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0062-unique-paths) |
+| [0583-delete-operation-for-two-strings](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0583-delete-operation-for-two-strings) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0583-delete-operation-for-two-strings) |
 <!---LeetCode Topics End-->
