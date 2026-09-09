@@ -95,6 +95,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0062-unique-paths](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0189-rotate-array) |
 | [3870-count-commas-in-range](https://github.com/swarjanvattipalli/leetcode-java/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/swarjanvattipalli/leetcode-java/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
