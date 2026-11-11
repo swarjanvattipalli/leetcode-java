@@ -12,6 +12,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0088-merge-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
@@ -96,6 +97,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | ------- |
 | [0062-unique-paths](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0204-count-primes) |
 | [3870-count-commas-in-range](https://github.com/swarjanvattipalli/leetcode-java/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/swarjanvattipalli/leetcode-java/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
@@ -111,4 +113,24 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0583-delete-operation-for-two-strings) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
