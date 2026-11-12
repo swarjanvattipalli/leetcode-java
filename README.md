@@ -14,6 +14,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0189-rotate-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0904-fruit-into-baskets) |
@@ -76,6 +77,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0151-reverse-words-in-a-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
