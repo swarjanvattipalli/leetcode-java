@@ -9,6 +9,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0011-container-with-most-water](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0189-rotate-array) |
@@ -52,6 +53,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0567-permutation-in-string) |
