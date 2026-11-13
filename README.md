@@ -6,6 +6,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -52,6 +53,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0268-missing-number) |
