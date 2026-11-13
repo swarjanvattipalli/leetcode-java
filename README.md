@@ -13,6 +13,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0041-first-missing-positive](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
@@ -56,6 +57,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0001-two-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0567-permutation-in-string) |
@@ -92,6 +94,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | ------- |
 | [0015-3sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -101,6 +104,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
 |  |
@@ -148,4 +152,12 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
