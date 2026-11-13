@@ -19,6 +19,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0209-minimum-size-subarray-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0904-fruit-into-baskets) |
@@ -45,6 +46,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -152,6 +155,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,4 +164,12 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
