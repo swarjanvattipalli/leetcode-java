@@ -11,6 +11,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0015-3sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0169-majority-element) |
@@ -83,6 +84,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0011-container-with-most-water](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0151-reverse-words-in-a-string) |
@@ -96,6 +98,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0015-3sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0268-missing-number) |
@@ -172,4 +175,12 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0287-find-the-duplicate-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
