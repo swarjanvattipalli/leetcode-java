@@ -13,6 +13,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0041-first-missing-positive](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0189-rotate-array) |
@@ -125,6 +126,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0062-unique-paths) |
+| [0152-maximum-product-subarray](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0152-maximum-product-subarray) |
 | [0583-delete-operation-for-two-strings](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0583-delete-operation-for-two-strings) |
 ## Combinatorics
 |  |
