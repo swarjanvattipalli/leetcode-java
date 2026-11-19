@@ -19,6 +19,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0189-rotate-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0287-find-the-duplicate-number) |
@@ -55,6 +56,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/swarjanvattipalli/leetcode-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
