@@ -24,6 +24,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0283-move-zeroes](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0904-fruit-into-baskets) |
@@ -71,6 +72,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0268-missing-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0904-fruit-into-baskets) |
@@ -196,4 +198,12 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
