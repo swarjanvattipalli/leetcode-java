@@ -35,6 +35,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0003-longest-substring-without-repeating-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0904-fruit-into-baskets) |
@@ -65,6 +66,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0242-valid-anagram](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0930-binary-subarrays-with-sum) |
@@ -78,6 +80,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0151-reverse-words-in-a-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0583-delete-operation-for-two-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
