@@ -37,6 +37,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -69,6 +70,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0001-two-sum](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0268-missing-number) |
@@ -86,6 +88,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0242-valid-anagram) |
