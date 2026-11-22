@@ -13,6 +13,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0041-first-missing-positive](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0169-majority-element) |
@@ -71,6 +72,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0003-longest-substring-without-repeating-characters](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0268-missing-number) |
@@ -222,4 +224,8 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0509-fibonacci-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
