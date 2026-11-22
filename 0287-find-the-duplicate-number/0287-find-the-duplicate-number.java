@@ -9,13 +9,11 @@ class Solution {
         }while(slow != fast);
 
         slow = nums[0];
-
         while(slow != fast){
             slow = nums[slow];
             fast = nums[fast];
         }
 
-
-        return fast;
+        return slow;
     }
 }
