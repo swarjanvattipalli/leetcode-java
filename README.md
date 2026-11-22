@@ -139,6 +139,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | [0189-rotate-array](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0509-fibonacci-number) |
 | [3870-count-commas-in-range](https://github.com/swarjanvattipalli/leetcode-java/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/swarjanvattipalli/leetcode-java/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
@@ -146,6 +147,7 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 | ------- |
 | [0062-unique-paths](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0583-delete-operation-for-two-strings) |
 ## Combinatorics
 |  |
@@ -212,4 +214,12 @@ A collection of Java solutions for LeetCode problems, automatically synced using
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0496-next-greater-element-i) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/swarjanvattipalli/leetcode-java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
